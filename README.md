@@ -17,7 +17,7 @@ O objetivo do portfólio é de documentar o aprendizado da disciplina de program
 
  <h2> Aula 14/06/23</h2>
  <h3> Oque aprendi </h3>
- Nesta aula aprendi a como pegar o url da página de maneira automática utilizando o " <? var url = getUrl() ?> "
+ Nesta aula aprendi a como pegar o url da página de maneira automática utilizando o  "? var url = getUrl() ?" 
 
  Link para acessar a atividade feita
  https://script.google.com/macros/s/AKfycbzExGttV6u8jQCkyvCqksueNYn_J6NR49eslmouTeRSBWYNOm1jM9yYm30AAMxOOPcv/exec
