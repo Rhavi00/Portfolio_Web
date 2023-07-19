@@ -14,13 +14,23 @@ O objetivo do portfólio é de documentar o aprendizado da disciplina de program
 
  Link para acessar a atividade feita 
  https://script.google.com/macros/s/AKfycbyjVNnBTwYV3JFkPFfQTpmq9WeDppf5mqNGGbGYz3DjDm08jV53xZ1Lz4oyb89Ig-Cy/exec
+ 
+
+ <h2> Aula 05/06/23</h2>
+ <h3> Oque aprendi </h3>
+ Aprendi a por cor na página criada utilizando a tag "style"
+
+ Link para a atividade
+https://script.google.com/macros/s/AKfycbzWj_PyMofuMyekkjVpabMV2f3uJOilO_0RhoWnKmRDR7oefIo9bj9VN-XR05BAjuNF8w/exec
+
 
  <h2> Aula 14/06/23</h2>
  <h3> Oque aprendi </h3>
  Nesta aula aprendi a como pegar o url da página de maneira automática utilizando o  "? var url = getUrl() ?" 
 
- Link para acessar a atividade feita
+ Link para a atividade feita
  https://script.google.com/macros/s/AKfycbzExGttV6u8jQCkyvCqksueNYn_J6NR49eslmouTeRSBWYNOm1jM9yYm30AAMxOOPcv/exec
+
 
  <h2> Aula 16/06/23</h2>
  <h3> Oque aprendi </h3>
@@ -29,6 +39,7 @@ O objetivo do portfólio é de documentar o aprendizado da disciplina de program
 
  Link para acessar a atividade feita
  https://script.google.com/macros/s/AKfycbys70VEo7ELtEhMfgkQ7Odp0A4cVuylxQszGZXizhN0YmqjJymtUGbFtvqz7-Jqtu4l/exec
+ 
 
  <h2> Aula 21/06/23</h2>
  Lista de exercício 1 | A.
