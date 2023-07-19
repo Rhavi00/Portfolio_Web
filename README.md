@@ -1,7 +1,7 @@
 # Portfólio_Web
 O objetivo do portfólio é de documentar o aprendizado da disciplina de programação Web
 
-<h1> Aula 24/05/2023 </h1>
+<li> Aula 24/05/2023 </li>
 <h2> Oque aprendi </h2>
 
 <li> Criar um site através do Google Script </li>
@@ -9,18 +9,21 @@ O objetivo do portfólio é de documentar o aprendizado da disciplina de program
  Nos fora ensinados também a criar um Projeto, renomeá-lo e a Implementar ele, o deixando online.
 
 <li> Aula 01/06/23</li>
- Nessa aula nos foi ensinado a como fazer um cálculo de média ponderada
+<h2> Oque aprendi </h2>
+ Nessa aula eu fui ensinado a como fazer um cálculo de média ponderada
 
  Link para acessar a atividade feita 
  https://script.google.com/macros/s/AKfycbyjVNnBTwYV3JFkPFfQTpmq9WeDppf5mqNGGbGYz3DjDm08jV53xZ1Lz4oyb89Ig-Cy/exec
 
  <li> Aula 14/06/23</li>
+ <h2> Oque aprendi </h2>
  Nesta aula aprendi a como pegar o url da página de maneira automática utilizando o " <? var url = getUrl() ?> "
 
  Link para acessar a atividade feita
  https://script.google.com/macros/s/AKfycbzExGttV6u8jQCkyvCqksueNYn_J6NR49eslmouTeRSBWYNOm1jM9yYm30AAMxOOPcv/exec
 
  <li> Aula 16/06/23</li>
+ <h2> Oque aprendi </h2>
  Nesse dia aprendi a como enviar as informações do Google Script para uma planilha no Excel, no Excel você precisará criar uma planilha
  e por o link dela no servidor do Google Script na variável planilha
 
